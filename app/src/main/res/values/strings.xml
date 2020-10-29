@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Avinash Web</string>
+
+    <!-- Slide 1 Title and Description-->
+    <string name="slide_1_title">Health Manager</string>
+    <string name="slide_1_desc">Tap to next for more info or skip</string>
+    <!-- Slide 2 Title and Description-->
+    <string name="slide_2_title">Get Covid data</string>
+    <string name="slide_2_desc">Get country wise case data</string>
+    <!-- Slide 3 Title and Description-->
+    <string name="slide_3_title">Get Data through map</string>
+    <string name="slide_3_desc">Get Covid case updated data on google map</string>
+    <!-- Slide 4 Title and Description-->
+    <string name="slide_4_title">Step count </string>
+    <string name="slide_4_desc">Use this step counting feature to monitor your health</string>
+
+
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+
+</resources>
